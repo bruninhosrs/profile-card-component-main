@@ -9,7 +9,7 @@ Esta é uma solução para o desafio do componente Cartão de perfil no Frontend
 ### Links
 
 - Repositório: [GitHub](https://github.com/bruninhosrs/profile-card-component-main)
-- Live Site URL: [Add live site URL here]()
+- Vercel: [Deploy](https://profile-card-component-main-weld-sigma.vercel.app/)
 
 ## My process
 
